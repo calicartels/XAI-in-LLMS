@@ -1,0 +1,14 @@
+# Core dependencies for XAI-in-LLMS
+# For Apple Silicon/CPU: torch==2.1.0 torchvision==0.16.0
+# For CUDA, install torch/torchvision from https://pytorch.org/get-started/locally/
+torch==2.1.0
+torchvision==0.16.0
+transformers==4.30.2
+sentence-transformers==2.2.2
+scikit-learn
+umap-learn
+matplotlib
+plotly
+pandas
+tqdm
+python-dotenv 
